@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "Hack",
+    "beautify.config": "",
+    "editor.fontWeight": "300",
+    "editor.fontLigatures": true,
+    "files.autoSave": "afterDelay",
+    "editor.tabSize": 2,
+    "markdown.preview.lineHeight": 1.8,
+    "html.format.extraLiners": ""
+}
